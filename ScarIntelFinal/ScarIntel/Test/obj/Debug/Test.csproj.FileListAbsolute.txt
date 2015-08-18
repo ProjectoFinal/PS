@@ -25,3 +25,12 @@ C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\Test\bin
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.exe
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\Test.exe.config
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\Test.exe
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\Test.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\SourceAFIS.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\SourceAFIS.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\SourceAFIS.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.exe
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.pdb

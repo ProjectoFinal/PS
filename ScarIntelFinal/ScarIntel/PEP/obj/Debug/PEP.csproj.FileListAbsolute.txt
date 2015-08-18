@@ -84,3 +84,9 @@ C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\PEP\bin\
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.pdb
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.dll
 C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll.config
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
