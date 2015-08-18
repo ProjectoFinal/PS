@@ -14,3 +14,11 @@ C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\Source
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.csprojResolveAssemblyReference.cache
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.dll
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.pdb

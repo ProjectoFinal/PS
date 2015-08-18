@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Channels;
+using System.ServiceModel.Security;
 using System.Text;
 using System.Threading;
 using Domain;
@@ -23,7 +26,27 @@ namespace SarcIntelService
         ConcurrencyMode = ConcurrencyMode.Multiple)]
     public class Server : IServer
     {
-        public Server(){}
+        public Server()
+        {
+            /*//23e2e5d87aa03c158390b4f3d6ac034cb376eda2
+            //{4E07D329-17C0-4674-B51B-24D5240B76FD}
+
+            string certhash = "23e2e5d87aa03c158390b4f3d6ac034cb376eda2";
+            string appid = Assembly.GetExecutingAssembly().GetType().GUID.ToString();
+
+
+
+            String s = "http add sslcert ipport=0.0.0.0:8080 certhash={0} appid={1}";
+            ProcessStartInfo procStartInfo = new ProcessStartInfo("netsh", s);
+
+            procStartInfo.RedirectStandardOutput = true;
+            procStartInfo.UseShellExecute = false;
+            procStartInfo.CreateNoWindow = true;
+
+            Process.Start(procStartInfo);
+
+            ;;*/
+        }
 
         //
         // Get an array of Regist associated with a person id 
@@ -283,7 +306,7 @@ namespace SarcIntelService
         }
 
 
-        public Document[] GetAllDocumentTypebyPerson(int idperson)
+        public Document[] GetAllDocumentPerson(int idperson)
         {
             try
             {

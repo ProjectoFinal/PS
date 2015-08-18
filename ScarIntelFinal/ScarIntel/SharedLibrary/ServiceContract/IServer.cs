@@ -41,7 +41,19 @@ namespace SarcIntelService
         [FaultContract(typeof (IllegalAccess))]
         [FaultContract(typeof (ServerError))]
         [OperationContract(IsOneWay = false)]
-        Document[] GetAllDocumentTypebyPerson(int idperson);
+        Document[] GetAllDocumentPerson(int idperson);
+
+
+        [FaultContract(typeof(IllegalAccess))]
+        [FaultContract(typeof(ServerError))]
+        [OperationContract(IsOneWay = false)]
+        Regist[] GetAllRegists();
+
+        [FaultContract(typeof (IllegalAccess))]
+        [FaultContract(typeof (ServerError))]
+        [OperationContract(IsOneWay = false)]
+        CrimeType[] GetAllCrimeTypeByRegist(int idRegist);
+
 
         
         
@@ -50,8 +62,15 @@ namespace SarcIntelService
         [OperationContract(IsOneWay = false)]
         Regist[] GetRegists(int person_id);
 
-        
-        
+
+        [FaultContract(typeof (IllegalAccess))]
+        [FaultContract(typeof (ServerError))]
+        [OperationContract(IsOneWay = false)]
+        int GetNumberOfParticipants(int regist);
+
+
+
+
         [FaultContract(typeof (IllegalAccess))]
         [FaultContract(typeof (ServerError))]
         [OperationContract(IsOneWay = false)]

@@ -17,3 +17,16 @@ C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\SourceAFIS.pdb
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.dll
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\SourceAFIS.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Imaging.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Math.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Imaging.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Math.xml
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.pdb

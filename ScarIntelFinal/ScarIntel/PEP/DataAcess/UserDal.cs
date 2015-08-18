@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using Logic;
@@ -11,15 +12,25 @@ namespace DataAcess
         {
             using (var connection = new SqlConnection(ConnectionString))
             {
-                connection.Open();
-
-                var command = new SqlCommand("Select * from _User", connection);
-                SqlDataReader reader = command.ExecuteReader();
-                while (reader.Read())
+                try
                 {
-                    yield return new User(reader.GetString(0), reader.GetString(1));
+                    connection.Open();
                 }
-                reader.Close();
+                catch (Exception e)
+                {
+                    throw e; 
+                }
+
+                    var command = new SqlCommand("Select * from _User", connection);
+                    SqlDataReader reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        yield return new User(reader.GetString(0), reader.GetString(1));
+                    }
+                    reader.Close();
+                
+
+
             }
         }
 

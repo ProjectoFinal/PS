@@ -28,7 +28,7 @@ namespace ScarIntel.Views.DocumentViews
 
             try{
 
-                SampleGenericDelegate<int,Document[]> del = new SampleGenericDelegate<int,Document[]>(serverClient.GetAllDocumentTypebyPerson);
+                SampleGenericDelegate<int,Document[]> del = new SampleGenericDelegate<int,Document[]>(serverClient.GetAllDocumentPerson);
 
                 IAsyncResult result = del.BeginInvoke(person.Id, null, null);
 

@@ -14,3 +14,8 @@ C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.p
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.csprojResolveAssemblyReference.cache

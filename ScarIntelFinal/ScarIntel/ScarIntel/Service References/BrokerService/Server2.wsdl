@@ -34,77 +34,17 @@
   <wsdl:message name="ServerService_GetAllPersonByIdRegist_ServerErrorFault_FaultMessage">
     <wsdl:part xmlns:q4="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q4:ServerError" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllDocumentTypebyPerson_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllDocumentTypebyPerson" />
+  <wsdl:message name="ServerService_GetAllDocumentPerson_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllDocumentPerson" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllDocumentTypebyPerson_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllDocumentTypebyPersonResponse" />
+  <wsdl:message name="ServerService_GetAllDocumentPerson_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllDocumentPersonResponse" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllDocumentTypebyPerson_IllegalAccessFault_FaultMessage">
+  <wsdl:message name="ServerService_GetAllDocumentPerson_IllegalAccessFault_FaultMessage">
     <wsdl:part xmlns:q5="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q5:IllegalAccess" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllDocumentTypebyPerson_ServerErrorFault_FaultMessage">
+  <wsdl:message name="ServerService_GetAllDocumentPerson_ServerErrorFault_FaultMessage">
     <wsdl:part xmlns:q6="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q6:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetRegists_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetRegists" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetRegists_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetRegistsResponse" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetRegists_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q7="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q7:IllegalAccess" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetRegists_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q8="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q8:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllCrimeType_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllCrimeType" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllCrimeType_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllCrimeTypeResponse" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllCrimeType_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q9="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q9:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllCrimeType_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q10="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q10:IllegalAccess" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllPerson_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllPerson" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllPerson_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetAllPersonResponse" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllPerson_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q11="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q11:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetAllPerson_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q12="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q12:IllegalAccess" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetPerson_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetPerson" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetPerson_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetPersonResponse" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetPerson_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q13="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q13:IllegalAccess" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetPerson_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q14="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q14:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricTypes_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetBiometricTypes" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricTypes_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetBiometricTypesResponse" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricTypes_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q15="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q15:ServerError" />
-  </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricTypes_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q16="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q16:IllegalAccess" />
   </wsdl:message>
   <wsdl:message name="ServerService_GetAllRegists_InputMessage">
     <wsdl:part name="parameters" element="tns:GetAllRegists" />
@@ -112,11 +52,11 @@
   <wsdl:message name="ServerService_GetAllRegists_OutputMessage">
     <wsdl:part name="parameters" element="tns:GetAllRegistsResponse" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllRegists_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q17="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q17:ServerError" />
-  </wsdl:message>
   <wsdl:message name="ServerService_GetAllRegists_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q18="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q18:IllegalAccess" />
+    <wsdl:part xmlns:q7="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q7:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllRegists_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q8="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q8:ServerError" />
   </wsdl:message>
   <wsdl:message name="ServerService_GetAllCrimeTypeByRegist_InputMessage">
     <wsdl:part name="parameters" element="tns:GetAllCrimeTypeByRegist" />
@@ -124,23 +64,23 @@
   <wsdl:message name="ServerService_GetAllCrimeTypeByRegist_OutputMessage">
     <wsdl:part name="parameters" element="tns:GetAllCrimeTypeByRegistResponse" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetAllCrimeTypeByRegist_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q19="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q19:IllegalAccess" />
-  </wsdl:message>
   <wsdl:message name="ServerService_GetAllCrimeTypeByRegist_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q20="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q20:ServerError" />
+    <wsdl:part xmlns:q9="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q9:ServerError" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricType_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetBiometricType" />
+  <wsdl:message name="ServerService_GetAllCrimeTypeByRegist_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q10="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q10:IllegalAccess" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricType_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetBiometricTypeResponse" />
+  <wsdl:message name="ServerService_GetRegists_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegists" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricType_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q21="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q21:IllegalAccess" />
+  <wsdl:message name="ServerService_GetRegists_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistsResponse" />
   </wsdl:message>
-  <wsdl:message name="ServerService_GetBiometricType_ServerErrorFault_FaultMessage">
-    <wsdl:part xmlns:q22="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q22:ServerError" />
+  <wsdl:message name="ServerService_GetRegists_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q11="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q11:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetRegists_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q12="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q12:IllegalAccess" />
   </wsdl:message>
   <wsdl:message name="ServerService_GetNumberOfParticipants_InputMessage">
     <wsdl:part name="parameters" element="tns:GetNumberOfParticipants" />
@@ -149,9 +89,69 @@
     <wsdl:part name="parameters" element="tns:GetNumberOfParticipantsResponse" />
   </wsdl:message>
   <wsdl:message name="ServerService_GetNumberOfParticipants_IllegalAccessFault_FaultMessage">
-    <wsdl:part xmlns:q23="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q23:IllegalAccess" />
+    <wsdl:part xmlns:q13="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q13:IllegalAccess" />
   </wsdl:message>
   <wsdl:message name="ServerService_GetNumberOfParticipants_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q14="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q14:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllCrimeType_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCrimeType" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllCrimeType_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCrimeTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllCrimeType_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q15="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q15:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllCrimeType_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q16="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q16:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllPerson_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPerson" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllPerson_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPersonResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllPerson_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q17="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q17:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetAllPerson_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q18="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q18:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetPerson_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPerson" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetPerson_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPersonResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetPerson_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q19="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q19:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetPerson_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q20="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q20:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricTypes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetBiometricTypes" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricTypes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetBiometricTypesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricTypes_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q21="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q21:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricTypes_ServerErrorFault_FaultMessage">
+    <wsdl:part xmlns:q22="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q22:ServerError" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricType_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetBiometricType" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricType_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetBiometricTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricType_IllegalAccessFault_FaultMessage">
+    <wsdl:part xmlns:q23="http://schemas.datacontract.org/2004/07/Domain.FaultContract" name="detail" element="q23:IllegalAccess" />
+  </wsdl:message>
+  <wsdl:message name="ServerService_GetBiometricType_ServerErrorFault_FaultMessage">
     <wsdl:part xmlns:q24="http://schemas.datacontract.org/2004/07/Domain.ServiceContract" name="detail" element="q24:ServerError" />
   </wsdl:message>
   <wsdl:message name="ServerService_InsertParticipant_InputMessage">
@@ -227,17 +227,35 @@
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllPersonByIdRegistIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllPersonByIdRegist_IllegalAccessFault_FaultMessage" />
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllPersonByIdRegistServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllPersonByIdRegist_ServerErrorFault_FaultMessage" />
     </wsdl:operation>
-    <wsdl:operation name="GetAllDocumentTypebyPerson">
-      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllDocumentTypebyPerson" message="tns:ServerService_GetAllDocumentTypebyPerson_InputMessage" />
-      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllDocumentTypebyPersonResponse" message="tns:ServerService_GetAllDocumentTypebyPerson_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllDocumentTypebyPersonIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllDocumentTypebyPerson_IllegalAccessFault_FaultMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllDocumentTypebyPersonServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllDocumentTypebyPerson_ServerErrorFault_FaultMessage" />
+    <wsdl:operation name="GetAllDocumentPerson">
+      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllDocumentPerson" message="tns:ServerService_GetAllDocumentPerson_InputMessage" />
+      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllDocumentPersonResponse" message="tns:ServerService_GetAllDocumentPerson_OutputMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllDocumentPersonIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllDocumentPerson_IllegalAccessFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllDocumentPersonServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllDocumentPerson_ServerErrorFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllRegists">
+      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllRegists" message="tns:ServerService_GetAllRegists_InputMessage" />
+      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllRegistsResponse" message="tns:ServerService_GetAllRegists_OutputMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllRegistsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllRegists_IllegalAccessFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllRegistsServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllRegists_ServerErrorFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCrimeTypeByRegist">
+      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegist" message="tns:ServerService_GetAllCrimeTypeByRegist_InputMessage" />
+      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistResponse" message="tns:ServerService_GetAllCrimeTypeByRegist_OutputMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllCrimeTypeByRegist_ServerErrorFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllCrimeTypeByRegist_IllegalAccessFault_FaultMessage" />
     </wsdl:operation>
     <wsdl:operation name="GetRegists">
       <wsdl:input wsaw:Action="BrokerService/ServerService/GetRegists" message="tns:ServerService_GetRegists_InputMessage" />
       <wsdl:output wsaw:Action="BrokerService/ServerService/GetRegistsResponse" message="tns:ServerService_GetRegists_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetRegistsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetRegists_IllegalAccessFault_FaultMessage" />
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetRegistsServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetRegists_ServerErrorFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetRegistsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetRegists_IllegalAccessFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNumberOfParticipants">
+      <wsdl:input wsaw:Action="BrokerService/ServerService/GetNumberOfParticipants" message="tns:ServerService_GetNumberOfParticipants_InputMessage" />
+      <wsdl:output wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsResponse" message="tns:ServerService_GetNumberOfParticipants_OutputMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetNumberOfParticipants_IllegalAccessFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetNumberOfParticipants_ServerErrorFault_FaultMessage" />
     </wsdl:operation>
     <wsdl:operation name="GetAllCrimeType">
       <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllCrimeType" message="tns:ServerService_GetAllCrimeType_InputMessage" />
@@ -260,32 +278,14 @@
     <wsdl:operation name="GetBiometricTypes">
       <wsdl:input wsaw:Action="BrokerService/ServerService/GetBiometricTypes" message="tns:ServerService_GetBiometricTypes_InputMessage" />
       <wsdl:output wsaw:Action="BrokerService/ServerService/GetBiometricTypesResponse" message="tns:ServerService_GetBiometricTypes_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetBiometricTypesServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetBiometricTypes_ServerErrorFault_FaultMessage" />
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetBiometricTypesIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetBiometricTypes_IllegalAccessFault_FaultMessage" />
-    </wsdl:operation>
-    <wsdl:operation name="GetAllRegists">
-      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllRegists" message="tns:ServerService_GetAllRegists_InputMessage" />
-      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllRegistsResponse" message="tns:ServerService_GetAllRegists_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllRegistsServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllRegists_ServerErrorFault_FaultMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllRegistsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllRegists_IllegalAccessFault_FaultMessage" />
-    </wsdl:operation>
-    <wsdl:operation name="GetAllCrimeTypeByRegist">
-      <wsdl:input wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegist" message="tns:ServerService_GetAllCrimeTypeByRegist_InputMessage" />
-      <wsdl:output wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistResponse" message="tns:ServerService_GetAllCrimeTypeByRegist_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetAllCrimeTypeByRegist_IllegalAccessFault_FaultMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetAllCrimeTypeByRegistServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetAllCrimeTypeByRegist_ServerErrorFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetBiometricTypesServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetBiometricTypes_ServerErrorFault_FaultMessage" />
     </wsdl:operation>
     <wsdl:operation name="GetBiometricType">
       <wsdl:input wsaw:Action="BrokerService/ServerService/GetBiometricType" message="tns:ServerService_GetBiometricType_InputMessage" />
       <wsdl:output wsaw:Action="BrokerService/ServerService/GetBiometricTypeResponse" message="tns:ServerService_GetBiometricType_OutputMessage" />
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetBiometricTypeIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetBiometricType_IllegalAccessFault_FaultMessage" />
       <wsdl:fault wsaw:Action="BrokerService/ServerService/GetBiometricTypeServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetBiometricType_ServerErrorFault_FaultMessage" />
-    </wsdl:operation>
-    <wsdl:operation name="GetNumberOfParticipants">
-      <wsdl:input wsaw:Action="BrokerService/ServerService/GetNumberOfParticipants" message="tns:ServerService_GetNumberOfParticipants_InputMessage" />
-      <wsdl:output wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsResponse" message="tns:ServerService_GetNumberOfParticipants_OutputMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsIllegalAccessFault" name="IllegalAccessFault" message="tns:ServerService_GetNumberOfParticipants_IllegalAccessFault_FaultMessage" />
-      <wsdl:fault wsaw:Action="BrokerService/ServerService/GetNumberOfParticipantsServerErrorFault" name="ServerErrorFault" message="tns:ServerService_GetNumberOfParticipants_ServerErrorFault_FaultMessage" />
     </wsdl:operation>
     <wsdl:operation name="InsertParticipant">
       <wsdl:input wsaw:Action="BrokerService/ServerService/InsertParticipant" message="tns:ServerService_InsertParticipant_InputMessage" />

@@ -94,3 +94,11 @@ C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dl
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.dll
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\SarcIntelBin\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb

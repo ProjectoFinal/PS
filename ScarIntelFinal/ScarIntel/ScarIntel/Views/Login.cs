@@ -59,20 +59,14 @@ namespace SarcIntelService
             loginButton.Enabled = false;
             passTextBox.Text = "";
 
+
+            serverClient.Open();
+            launchMainForm(serverClient);
             try
             {
-                // Opening connection 
-
-
-                Task.Run(( ) => serverClient.Open()).ContinueWith( ( x ) =>
-                {
-                    this.Invoke((MethodInvoker)delegate
-                    {
-                        launchMainForm(serverClient);
-                    });
-                });
-
                 
+
+            
             }
             catch ( Exception exception )
             {

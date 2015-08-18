@@ -136,8 +136,8 @@
         <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
       </wsdl:fault>
     </wsdl:operation>
-    <wsdl:operation name="GetAllDocumentTypebyPerson">
-      <soap12:operation soapAction="BrokerService/ServerService/GetAllDocumentTypebyPerson" style="document" />
+    <wsdl:operation name="GetAllDocumentPerson">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllDocumentPerson" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>
@@ -151,8 +151,53 @@
         <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
       </wsdl:fault>
     </wsdl:operation>
+    <wsdl:operation name="GetAllRegists">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllRegists" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCrimeTypeByRegist">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllCrimeTypeByRegist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
     <wsdl:operation name="GetRegists">
       <soap12:operation soapAction="BrokerService/ServerService/GetRegists" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNumberOfParticipants">
+      <soap12:operation soapAction="BrokerService/ServerService/GetNumberOfParticipants" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>
@@ -219,36 +264,6 @@
       <wsdl:output>
         <soap12:body use="literal" />
       </wsdl:output>
-      <wsdl:fault name="ServerErrorFault">
-        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
-      </wsdl:fault>
-      <wsdl:fault name="IllegalAccessFault">
-        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
-      </wsdl:fault>
-    </wsdl:operation>
-    <wsdl:operation name="GetAllRegists">
-      <soap12:operation soapAction="BrokerService/ServerService/GetAllRegists" style="document" />
-      <wsdl:input>
-        <soap12:body use="literal" />
-      </wsdl:input>
-      <wsdl:output>
-        <soap12:body use="literal" />
-      </wsdl:output>
-      <wsdl:fault name="ServerErrorFault">
-        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
-      </wsdl:fault>
-      <wsdl:fault name="IllegalAccessFault">
-        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
-      </wsdl:fault>
-    </wsdl:operation>
-    <wsdl:operation name="GetAllCrimeTypeByRegist">
-      <soap12:operation soapAction="BrokerService/ServerService/GetAllCrimeTypeByRegist" style="document" />
-      <wsdl:input>
-        <soap12:body use="literal" />
-      </wsdl:input>
-      <wsdl:output>
-        <soap12:body use="literal" />
-      </wsdl:output>
       <wsdl:fault name="IllegalAccessFault">
         <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
       </wsdl:fault>
@@ -258,21 +273,6 @@
     </wsdl:operation>
     <wsdl:operation name="GetBiometricType">
       <soap12:operation soapAction="BrokerService/ServerService/GetBiometricType" style="document" />
-      <wsdl:input>
-        <soap12:body use="literal" />
-      </wsdl:input>
-      <wsdl:output>
-        <soap12:body use="literal" />
-      </wsdl:output>
-      <wsdl:fault name="IllegalAccessFault">
-        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
-      </wsdl:fault>
-      <wsdl:fault name="ServerErrorFault">
-        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
-      </wsdl:fault>
-    </wsdl:operation>
-    <wsdl:operation name="GetNumberOfParticipants">
-      <soap12:operation soapAction="BrokerService/ServerService/GetNumberOfParticipants" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>
