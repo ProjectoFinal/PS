@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA469327-4E1C-4F6E-9815-296A8C92C954}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ScarIntel</RootNamespace>
+    <AssemblyName>ScarIntel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Service References\BrokerService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DocumentViews\DocumentEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\DocumentViews\DocumentEditor.Designer.cs">
+      <DependentUpon>DocumentEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\DocumentViews\DocumentView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\DocumentViews\DocumentView.Designer.cs">
+      <DependentUpon>DocumentView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\InfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\InfoForm.Designer.cs">
+      <DependentUpon>InfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Ocorrencias\OcorrView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Ocorrencias\OcorrView.Designer.cs">
+      <DependentUpon>OcorrView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\RegistoCriminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\RegistoCriminal.Designer.cs">
+      <DependentUpon>RegistoCriminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonView\PersonEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\PersonView\PersonEditor.Designer.cs">
+      <DependentUpon>PersonEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonView\PersonView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\PersonView\PersonView.Designer.cs">
+      <DependentUpon>PersonView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\DocumentViews\DocumentEditor.resx">
+      <DependentUpon>DocumentEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\DocumentViews\DocumentView.resx">
+      <DependentUpon>DocumentView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\InfoForm.resx">
+      <DependentUpon>InfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Ocorrencias\OcorrView.resx">
+      <DependentUpon>OcorrView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\RegistoCriminal.resx">
+      <DependentUpon>RegistoCriminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PersonView\PersonEditor.resx">
+      <DependentUpon>PersonEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PersonView\PersonView.resx">
+      <DependentUpon>PersonView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\Domain.Person.datasource" />
+    <None Include="Properties\DataSources\Domain.Regist.datasource" />
+    <None Include="Properties\DataSources\Domain.SimplePerson.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.BiometricType.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.CrimeType.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.DocumentType.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.Model.Document.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.Person.datasource" />
+    <None Include="Properties\DataSources\SharedLibrary.Regist.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\BrokerService\BrokerServer.wsdl" />
+    <None Include="Service References\BrokerService\item.wsdl" />
+    <None Include="Service References\BrokerService\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\item3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\item4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\item5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.BiometricType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.CrimeType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.Document.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.DocumentType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.Person.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\BrokerService\ScarIntel.BrokerService.Regist.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo SARC-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\BrokerService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BrokerService\item.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BrokerService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BrokerService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BrokerService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

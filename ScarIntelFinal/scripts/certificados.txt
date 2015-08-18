@@ -1,0 +1,5 @@
+makecert -sr localmachine -n "CN=RootCATest" -r -sv RootCATest.pvk RootCATest.cer
+
+makecert -sk SarcOps -n "CN=localhost" -ic RootCATest.cer -iv RootCATest.pvk -sr localmachine -ss my -sky exchange -pe
+
+pvk2pfx -pvk  RootCATest.pvk  -spc RootCATest.cer -pfx RootCATest.pfx 

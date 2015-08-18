@@ -1,0 +1,81 @@
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\bin\Debug\PEP.exe.config
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\bin\Debug\PEP.exe
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\bin\Debug\PEP.pdb
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\bin\Debug\PDP.exe
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\bin\Debug\PDP.pdb
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\obj\Debug\PEP.exe
+C:\Users\RubenSantos\Documents\Visual Studio 2013\Projects\SI_PDP\PEP\obj\Debug\PEP.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll.config
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\PDP.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\PDP.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\PDP.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\PDP.dll
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\PDP.pdb
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel\PEP\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\PEP\bin\Debug\PEP.pdb
+D:\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll.config
+D:\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll
+D:\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.pdb
+D:\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+D:\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.dll
+D:\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll.config
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.pdb

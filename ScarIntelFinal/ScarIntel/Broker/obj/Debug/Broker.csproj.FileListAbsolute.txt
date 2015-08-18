@@ -1,0 +1,83 @@
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe.config
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.exe
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe.config
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.exe
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\PDP.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.exe
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\Broker\bin\Debug\Broker.exe.config
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\Broker.exe.config
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\obj\Debug\Broker.exe
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\Broker.exe
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\Broker.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\PEP.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\PDP.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\PEP.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\bin\Debug\PDP.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\Broker.exe.config
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\Broker.exe
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\Broker.pdb
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\PDP.dll
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel\Broker\bin\Debug\PDP.pdb
+C:\Users\samsung\Desktop\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel\Broker\obj\Debug\Broker.exe
+C:\Users\samsung\Desktop\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\Broker.exe.config
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\obj\Debug\Broker.exe
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\obj\Debug\Broker.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\Broker.exe
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\Broker.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\PEP.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\PEP.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\obj\Debug\Broker.Properties.Resources.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\Broker\obj\Debug\Broker.csproj.GenerateResource.Cache

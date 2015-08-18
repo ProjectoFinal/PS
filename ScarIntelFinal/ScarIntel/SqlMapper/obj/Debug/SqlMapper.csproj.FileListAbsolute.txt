@@ -1,0 +1,96 @@
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\Debug\SqlMapper.InfoForm.resources
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\config.txt
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SqlMapper\bin\Debug\Domain.pdb
+D:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+D:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+D:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+D:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.dll
+D:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.pdb
+D:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+D:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+D:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.dll
+C:\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.pdb
+C:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll.config
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SqlMapper\bin\Debug\Domain.pdb

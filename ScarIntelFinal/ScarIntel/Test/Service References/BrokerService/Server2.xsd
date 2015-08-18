@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Domain.DataContract" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Domain.DataContract" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfDocumentType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DocumentType" nillable="true" type="tns:DocumentType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDocumentType" nillable="true" type="tns:ArrayOfDocumentType" />
+  <xs:complexType name="DocumentType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentType" nillable="true" type="tns:DocumentType" />
+  <xs:complexType name="ArrayOfDocument">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Document" nillable="true" type="tns:Document" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDocument" nillable="true" type="tns:ArrayOfDocument" />
+  <xs:complexType name="Document">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Person" nillable="true" type="tns:Person" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="tns:DocumentType" />
+      <xs:element minOccurs="0" name="code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="emission_date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="emission_local" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="expiration_date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Document" nillable="true" type="tns:Document" />
+  <xs:complexType name="Person">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Birthday" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Birthplace" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Person" nillable="true" type="tns:Person" />
+  <xs:complexType name="ArrayOfRegist">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Regist" nillable="true" type="tns:Regist" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRegist" nillable="true" type="tns:ArrayOfRegist" />
+  <xs:complexType name="Regist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CrimeType" nillable="true" type="tns:CrimeType" />
+      <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Participants" nillable="true" type="tns:ArrayOfParticipant" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Regist" nillable="true" type="tns:Regist" />
+  <xs:complexType name="CrimeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CrimeType" nillable="true" type="tns:CrimeType" />
+  <xs:complexType name="ArrayOfParticipant">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Participant" nillable="true" type="tns:Participant" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfParticipant" nillable="true" type="tns:ArrayOfParticipant" />
+  <xs:complexType name="Participant">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Person" nillable="true" type="tns:Person" />
+      <xs:element minOccurs="0" name="Regist" nillable="true" type="tns:Regist" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Participant" nillable="true" type="tns:Participant" />
+  <xs:complexType name="ArrayOfCrimeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CrimeType" nillable="true" type="tns:CrimeType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCrimeType" nillable="true" type="tns:ArrayOfCrimeType" />
+  <xs:complexType name="ArrayOfPerson">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Person" nillable="true" type="tns:Person" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPerson" nillable="true" type="tns:ArrayOfPerson" />
+  <xs:complexType name="ArrayOfBiometricType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BiometricType" nillable="true" type="tns:BiometricType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBiometricType" nillable="true" type="tns:ArrayOfBiometricType" />
+  <xs:complexType name="BiometricType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Person" nillable="true" type="tns:Person" />
+      <xs:element minOccurs="0" name="data" nillable="true" type="xs:base64Binary" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BiometricType" nillable="true" type="tns:BiometricType" />
+</xs:schema>

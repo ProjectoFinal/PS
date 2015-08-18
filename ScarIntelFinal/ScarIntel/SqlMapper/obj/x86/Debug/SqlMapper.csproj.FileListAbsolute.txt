@@ -1,0 +1,15 @@
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\bin\x86\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\bin\x86\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.InfoForm.resources
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\x86\Debug\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\x86\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\x86\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\x86\Debug\SqlMapper.pdb

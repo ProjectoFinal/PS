@@ -1,0 +1,27 @@
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\obj\Debug\Domain.InfoForm.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csproj.GenerateResource.Cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\obj\Debug\Domain.InfoForm.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csproj.GenerateResource.Cache
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\obj\Debug\Domain.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\Domain.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache

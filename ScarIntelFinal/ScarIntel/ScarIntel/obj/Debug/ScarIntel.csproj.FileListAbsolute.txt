@@ -1,0 +1,145 @@
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\Views.dll
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\Views.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\Projecto\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\Views.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\Views.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.dll
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.pdb
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+D:\RAFAEL DELGADO\Dropbox\Public\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.dll
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\JACKY\Desktop\versao 4\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.dll
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\bin\Debug\SharedLibrary.pdb
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\JACKY\Desktop\FIUFIU\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.RegistoCriminal.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.RegistoCriminal.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\obj\Debug\Views.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\Views.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.RegistoCriminal.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb
+D:\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe.config
+D:\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
+D:\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Properties.Resources.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.DocumentViews.DocumentView.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\Views.InfoForm.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\Views.Login.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.MainForm.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\Views.Ocorrencias.OcorrView.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.RegistoCriminal.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonEditor.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\Views.PersonView.PersonView.resources
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.csproj.GenerateResource.Cache
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.exe
+D:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.pdb

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:i0="BrokerService" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Server" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="WSHttpBinding_ServerService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <sp:HttpsToken RequireClientCertificate="false" />
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:import namespace="BrokerService" location="https://samsung-pc:8081/Server.svc?wsdl=wsdl0" />
+  <wsdl:types />
+  <wsdl:binding name="WSHttpBinding_ServerService" type="i0:ServerService">
+    <wsp:PolicyReference URI="#WSHttpBinding_ServerService_policy" />
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SignIn">
+      <soap12:operation soapAction="BrokerService/ServerService/SignIn" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="SignOut">
+      <soap12:operation soapAction="BrokerService/ServerService/SignOut" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDocumentType">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllDocumentType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDocumentTypebyPerson">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllDocumentTypebyPerson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegists">
+      <soap12:operation soapAction="BrokerService/ServerService/GetRegists" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCrimeType">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllCrimeType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPerson">
+      <soap12:operation soapAction="BrokerService/ServerService/GetAllPerson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetPerson">
+      <soap12:operation soapAction="BrokerService/ServerService/GetPerson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetBiometricTypes">
+      <soap12:operation soapAction="BrokerService/ServerService/GetBiometricTypes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetBiometricType">
+      <soap12:operation soapAction="BrokerService/ServerService/GetBiometricType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="InsertParticipant">
+      <soap12:operation soapAction="BrokerService/ServerService/InsertParticipant" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="InsertPerson">
+      <soap12:operation soapAction="BrokerService/ServerService/InsertPerson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="InsertRegist">
+      <soap12:operation soapAction="BrokerService/ServerService/InsertRegist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="InsertBiometricType">
+      <soap12:operation soapAction="BrokerService/ServerService/InsertBiometricType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="InsertDocument">
+      <soap12:operation soapAction="BrokerService/ServerService/InsertDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="IllegalAccessFault">
+        <soap12:fault use="literal" name="IllegalAccessFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="ServerErrorFault">
+        <soap12:fault use="literal" name="ServerErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Server">
+    <wsdl:port name="WSHttpBinding_ServerService" binding="tns:WSHttpBinding_ServerService">
+      <soap12:address location="https://samsung-pc:8081/Server.svc/Broker" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>https://samsung-pc:8081/Server.svc/Broker</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

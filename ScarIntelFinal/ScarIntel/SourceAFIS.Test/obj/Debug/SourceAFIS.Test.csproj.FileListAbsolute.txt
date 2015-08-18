@@ -1,0 +1,16 @@
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.dll
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.pdb
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.dll
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.pdb
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.xml
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.csprojResolveAssemblyReference.cache
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.dll
+D:\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.Test.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\bin\Debug\SourceAFIS.xml
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.csprojResolveAssemblyReference.cache
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SourceAFIS.Test\obj\Debug\SourceAFIS.Test.pdb

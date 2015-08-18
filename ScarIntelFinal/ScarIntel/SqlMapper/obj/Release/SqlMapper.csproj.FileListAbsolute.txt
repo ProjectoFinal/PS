@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Release\SqlMapper.dll.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Release\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\bin\Release\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Release\SqlMapper.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Release\SqlMapper.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Release\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\SqlMapper\obj\Release\SqlMapper.pdb

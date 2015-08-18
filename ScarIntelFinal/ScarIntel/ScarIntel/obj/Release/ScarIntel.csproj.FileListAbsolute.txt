@@ -1,0 +1,15 @@
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\ScarIntel.exe.config
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\ScarIntel.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\Domain.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\SqlMapper.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\Views.dll
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\Domain.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\Views.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\bin\Release\SqlMapper.pdb
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.MainForm.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.Properties.Resources.resources
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.exe
+C:\Users\samsung\Desktop\ScarIntelBacDistribuido\ScarIntel\ScarIntel\obj\Release\ScarIntel.pdb

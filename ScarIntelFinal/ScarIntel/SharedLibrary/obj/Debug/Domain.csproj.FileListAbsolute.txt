@@ -1,0 +1,16 @@
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\Domain.InfoForm.resources
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\Domain.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\bin\Debug\Domain.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\bin\Debug\Domain.pdb
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
+C:\Users\samsung\Desktop\ScarIntel.1\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
+D:\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.dll
+D:\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.pdb
+D:\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
+D:\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
+C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.csprojResolveAssemblyReference.cache

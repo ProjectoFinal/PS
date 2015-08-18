@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5a4444d9-b3f2-4acb-8274-2ad174103aae" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://samsung-pc:8081/Server.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Server.xsd" MetadataType="Schema" ID="3e528e8c-5618-46c0-af5c-c5defc8f0c76" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd0" />
+    <MetadataFile FileName="Server.wsdl" MetadataType="Wsdl" ID="7e7229c7-187a-4dfe-96e9-8626690fa0a3" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?wsdl" />
+    <MetadataFile FileName="Server1.xsd" MetadataType="Schema" ID="b77da033-9760-45a5-9767-ce56dfd072e0" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd3" />
+    <MetadataFile FileName="Server2.xsd" MetadataType="Schema" ID="cc6ce1f3-6cab-419f-8275-b6aa2143b897" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd4" />
+    <MetadataFile FileName="Server3.xsd" MetadataType="Schema" ID="656b5138-0967-4b5b-96a5-9588d8e38c52" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd5" />
+    <MetadataFile FileName="Server1.wsdl" MetadataType="Wsdl" ID="44ba2efa-f982-455a-b567-a59fb704fe0f" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Server.disco" MetadataType="Disco" ID="7549421b-7849-482a-acdd-2eee1f2bc839" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?disco" />
+    <MetadataFile FileName="Server4.xsd" MetadataType="Schema" ID="0249ed2b-018e-4678-b6cb-c2a6887798a6" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd1" />
+    <MetadataFile FileName="Server5.xsd" MetadataType="Schema" ID="aba7dbc7-9907-4e21-9e85-9ce7c8b81a90" SourceId="1" SourceUrl="https://samsung-pc:8081/Server.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
