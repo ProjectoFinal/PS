@@ -40,5 +40,30 @@ namespace SourceAFIS.Utils
 
             
         }
+
+        internal static void ShowImage(bool[,] image)
+        {
+            int xsize = image.GetLength(0);
+            int ysize = image.GetLength(1);
+
+            byte[,] img = new byte[xsize, ysize];
+
+
+            for (int x = 0; x < xsize; x++)
+            {
+                for (int y = 0; y < ysize; y++)
+                {
+                    if (image[x, y])
+                    {
+                        img[x, y] = 255;
+                    }
+                    else
+                    {
+                        img[x, y] = 0 ;
+                    }
+                }
+            }
+            ShowImage(img);
+        }
     }
 }

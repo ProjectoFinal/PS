@@ -18,13 +18,10 @@ namespace SourceAFIS
     {
         internal List<FingerprintMinutia> Minutiae = new List<FingerprintMinutia>();
         internal NeighborEdge[][] EdgeTable;
-
-        // Remove later 
-        internal bool [,] imageBin; 
-
+        
         public FingerprintTemplate(byte[,] image, int dpi = 500)
         {
-            const int blockSize = 15;
+            const int blockSize = 16;
 
             
 
@@ -40,15 +37,18 @@ namespace SourceAFIS
             double[,] equalized = Equalize(blocks, image, smoothHistogram, mask);
 
             byte[,] orientation = ComputeOrientationMap(equalized, mask, blocks);
-            BitmapUtils.ShowImage(orientation);
 
+            
             double[,] smoothed = SmoothByOrientation(equalized, orientation, mask, blocks, 0, ConstructOrientedLines(step: 1.59));
             double[,] orthogonal = SmoothByOrientation(smoothed, orientation, mask, blocks, Angle.PIB,
                 ConstructOrientedLines(resolution: 11, radius: 4, step: 1.11));
 
             var binary = Binarize(smoothed, orthogonal, mask, blocks);
-            
+
             CleanupBinarized(binary);
+            BitmapUtils.ShowImage(binary);
+            
+            
 
 
             var pixelMask = FillBlocks(mask, blocks);
