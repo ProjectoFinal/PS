@@ -3,3 +3,5 @@
 *.mdf
 ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel_log.ldf
 *.exe
+*.ldf
+ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel.mdf
