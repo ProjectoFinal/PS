@@ -89,4 +89,3 @@ D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.dll
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\bin\Debug\PEP.pdb
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.dll
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.pdb
-D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\PEP\obj\Debug\PEP.csprojResolveAssemblyReference.cache

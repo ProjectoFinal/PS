@@ -41,9 +41,9 @@ namespace SqlMapper.DataMapper
             using (SqlCommand cmd = this.connection.CreateCommand())
             {
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.CommandText = paging
+                cmd.CommandText = "paging";
                 //cmdGet.Parameters["@id"].Value = id;
-                using (SqlDataReader dr = cmdGet.ExecuteReader())
+                using (SqlDataReader dr = cmd.ExecuteReader())
                 {
                     
                     while (dr.Read())

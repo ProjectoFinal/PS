@@ -41,6 +41,5 @@ D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.I
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Imaging.Formats.xml
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.xml
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\bin\Debug\AForge.Math.xml
-D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.csprojResolveAssemblyReference.cache
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.dll
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SourceAFIS\SourceAFIS\obj\Debug\SourceAFIS.pdb

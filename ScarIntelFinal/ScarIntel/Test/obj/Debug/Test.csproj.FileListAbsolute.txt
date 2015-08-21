@@ -34,3 +34,17 @@ D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\SourceAFIS.xml
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.exe
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\obj\Debug\Test.pdb
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Imaging.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Imaging.Formats.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Math.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Controls.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Video.dll
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Imaging.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Imaging.Formats.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Math.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Controls.xml
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\Test\bin\Debug\AForge.Video.xml

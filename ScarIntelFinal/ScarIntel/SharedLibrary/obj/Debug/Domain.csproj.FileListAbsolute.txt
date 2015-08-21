@@ -23,4 +23,3 @@ D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.dll
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SharedLibrary\bin\Debug\Domain.pdb
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.dll
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.pdb
-D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\SharedLibrary\obj\Debug\Domain.csprojResolveAssemblyReference.cache
