@@ -82,6 +82,7 @@ namespace SarcIntelService.Ocorrencias
                 regist = new Regist();
                 regist.Date = dateTimePicker1.Value;
                 regist.Description = richTextBox1.Text;
+                regist.Code = textBox3.Text;
 
                 SampleGenericDelegate<Regist,int> del = new SampleGenericDelegate<Regist,int>(serverClient.InsertRegist);
 
@@ -148,6 +149,11 @@ namespace SarcIntelService.Ocorrencias
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
         }

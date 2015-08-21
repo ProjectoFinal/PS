@@ -12,8 +12,10 @@ namespace SarcIntelService.PersonView
     {
         public readonly OpenFileDialog photoDialog;
         private readonly ServerServiceClient serverClient;
+        private readonly int AgeMin=16;
         public Stream fileStream;
         private Regist _regist;
+        private Person p;
 
 
         public PersonEditor(ServerServiceClient serverClient,Regist regist)
@@ -22,7 +24,7 @@ namespace SarcIntelService.PersonView
             this.serverClient = serverClient;
             photoDialog = new OpenFileDialog();
             _regist = regist;
-            
+            p = new Person();
             photoDialog.Filter =
                 "Image files (*.jpg, *.jpeg, *.jpe, *.jfif) | *.jpg; *.jpeg; *.jpe; *.jfif;";
             //photoDialog.InitialDirectory = @"C:\";
@@ -63,15 +65,11 @@ namespace SarcIntelService.PersonView
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
-            Person p = GetPerson();
             
             try
-            {
-                 SampleGenericDelegate<Person,int> del = new SampleGenericDelegate<Person,int>(serverClient.InsertPerson);
+            {    SetPerson();
 
-                IAsyncResult result = del.BeginInvoke(p,null, null);
-
-                p.Id =  del.EndInvoke(result); 
+            serverClient.InsertPersonAsync(p); 
              //   _regist.AddPerson(p);
                 SaveButton.Enabled = false;
                 Close();
@@ -85,14 +83,26 @@ namespace SarcIntelService.PersonView
             }
         }
 
-        private Person GetPerson()
+        private  void SetPerson()
         {
-            var p = new Person();
             p.Name = nameBoxText.Text;
             p.Birthday = birthPicker.Value;
+            
+            TimeSpan x = DateTime.Now - p.Birthday;
+            int aux = (x.Days/365);
+            if (aux < AgeMin)
+            {
+               throw new Exception("Menor que 16 anos nao é permitida a inserçao");
+               /*
+                InfoForm info = new InfoForm();
+                info.Add();
+                info.Enabled = false;
+                info.ShowDialog(this);
+            */
+            }
             p.Address = moradaTextBox.Text;
             p.Birthplace = nacioBoxText.Text;
-            return p;
+           
         }
 
         private BiometricType GetFaceBiometric()
@@ -129,9 +139,31 @@ namespace SarcIntelService.PersonView
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var occor = new DocumentEditor(serverClient, GetPerson());
-            //occor.Visible = true;
-            occor.ShowDialog(this);
+              }
+
+        private Boolean verifyPerson() { return !p.Address.Equals("") && p.Birthday != null && !p.Birthplace.Equals("") && !p.Name.Equals("Nome Completo"); }
+
+
+        private void documentoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void documentoToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            SetPerson();
+            if (!verifyPerson())
+            {
+                InfoForm info = new InfoForm();
+                info.Add("Aviso: Tem que prencher todos os campos pessoa primeiro");
+                info.Enabled = false;
+                info.Visible = true;
+            }
+            else { 
+              DocumentEditor doc = new DocumentEditor(serverClient,this.p);
+              doc.Visible = true;
+              doc.FormClosed += (o, even) => this.Close();
+           }
         }
     }
 }

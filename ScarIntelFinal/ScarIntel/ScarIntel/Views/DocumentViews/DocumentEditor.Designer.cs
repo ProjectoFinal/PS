@@ -176,7 +176,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button saveButton;
+        public System.Windows.Forms.Button saveButton;
         private System.Windows.Forms.Label label5;
     }
 }

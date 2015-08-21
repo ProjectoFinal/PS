@@ -30,7 +30,7 @@ namespace ScarIntel.Views.DocumentViews
 
                 SampleGenericDelegate<int,Document[]> del = new SampleGenericDelegate<int,Document[]>(serverClient.GetAllDocumentPerson);
 
-                IAsyncResult result = del.BeginInvoke(person.Id, null, null);
+                IAsyncResult result = del.BeginInvoke(person.Nif, null, null);
 
             
                 Document[] list = del.EndInvoke(result);

@@ -36,7 +36,6 @@ C:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntel.csproj.GenerateResourc
 C:\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
 C:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.RegistView.resources
 C:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.Participants.resources
-C:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntel.csprojResolveAssemblyReference.cache
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.exe
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\ScarIntel\bin\Debug\ScarIntel.pdb
 C:\Users\JACKY\Desktop\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.DocumentEditor.resources
@@ -93,3 +92,5 @@ D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\ScarIntel.Views.Regi
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntelService.PersonView.PersonEditor.resources
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntelService.PersonView.PersonView.resources
 D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntel.csproj.GenerateResource.Cache
+D:\PROJECTO\PS\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntel.csprojResolveAssemblyReference.cache
+C:\ScarIntelFinal\ScarIntel\ScarIntel\obj\Debug\SarcIntel.csprojResolveAssemblyReference.cache

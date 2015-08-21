@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using ScarIntel.BrokerService;
 using SarcIntelService;
 using ScarIntel.Views;
+using System.Threading.Tasks;
 
 namespace ScarIntel
 {
@@ -51,7 +52,7 @@ namespace ScarIntel
             comboBox1.SelectedIndex = 0 ; 
         }
 
-        private void saveButton_Click(object sender, EventArgs e)
+        public void saveButton_Click(object sender, EventArgs e)
         {
             var document = new Document();
 
@@ -59,28 +60,41 @@ namespace ScarIntel
             document.emission_local = textBox2.Text;
             document.emission_date = dateTimePicker2.Value;
             document.expiration_date = dateTimePicker1.Value;
-            string aux = comboBox1.Text;
-            
-            DocumentType doctype = documents.FirstOrDefault(d => d.Name.Equals(comboBox1.Text));
-            if (doctype == null) return;
-            document.Type = doctype;
-            document.Person = person;
 
-            try
+            if (document.emission_date > document.expiration_date)
             {
-                SampleGenericDelegate< Document,int> del = new SampleGenericDelegate<Document,int>(serverClient.InsertDocument);
-
-                IAsyncResult result = del.BeginInvoke(document, null, null);
-
-                 del.EndInvoke(result); 
-                Close();
+                InfoForm info = new InfoForm();
+                info.Add("Aviso: Data de Emissao é maior do que data de Expiraçao !");
+                info.Enabled = false;
+                info.Visible = true;
             }
-            catch (Exception exception)
+
+            else
             {
-                var info = new InfoForm();
-                info.Add(exception.Message);
-                info.ShowDialog(this);
-                info.Dispose();
+                
+                DocumentType doctype = documents.FirstOrDefault(d => d.Name.Equals(comboBox1.Text));
+                if (doctype == null) return;
+                document.Type = doctype;
+               serverClient.InsertPersonAsync(person);
+               
+                document.Person = person;
+
+                try
+                {
+                    SampleGenericDelegate<Document, int> del = new SampleGenericDelegate<Document, int>(serverClient.InsertDocument);
+
+                    IAsyncResult result = del.BeginInvoke(document, null, null);
+
+                    del.EndInvoke(result);
+                    Close();
+                }
+                catch (Exception exception)
+                {
+                    var info = new InfoForm();
+                    info.Add(exception.Message);
+                    info.ShowDialog(this);
+                    info.Dispose();
+                }
             }
         }
 

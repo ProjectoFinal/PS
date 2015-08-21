@@ -39,7 +39,7 @@ namespace ScarIntel.Views
             foreach (Person p in persons)
                 dataGridView1.Rows.Add(new object[]
                 {
-                    p.Id, p.Name, p.Address, p.Birthday.ToShortDateString(), p.Birthplace,
+                    p.Nif, p.Name, p.Address, p.Birthday.ToShortDateString(), p.Birthplace,
                 });
 
         }

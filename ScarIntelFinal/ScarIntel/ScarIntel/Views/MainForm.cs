@@ -25,7 +25,7 @@ namespace ScarIntel
             if (p == null) return;
             int row =
                 dataGridView1.Rows.Add(new object[]
-                {p.Id, p.Name, p.Birthday.ToShortDateString(), p.Birthplace, p.Address});
+                {p.Nif, p.Name, p.Birthday.ToShortDateString(), p.Birthplace, p.Address});
         }
 
         private void perfilToolStripMenuItem_Click(object sender, EventArgs e)
@@ -92,7 +92,7 @@ namespace ScarIntel
                 if (e.RowIndex >= persons.Count) return;
 
                 Person person =
-                    persons.FirstOrDefault(p => p.Id == (int) dataGridView1.Rows[e.RowIndex].Cells[0].Value);
+                    persons.FirstOrDefault(p => p.Nif == (int) dataGridView1.Rows[e.RowIndex].Cells[0].Value);
 
                 if (person == null) return;
 
@@ -107,7 +107,7 @@ namespace ScarIntel
                         person_view.SetRegists(r.Result);
                     });
                     */
-                    serverClient.GetBiometricTypeAsync(person.Id, "face").
+                    serverClient.GetBiometricTypeAsync(person.Nif, "face").
                         ContinueWith(b => { person_view.SetImage(b.Result); });
                     person_view.Visible = true;
                     Closing += (o, args) => person_view.Close();

@@ -25,7 +25,7 @@ namespace SarcIntelService.PersonView
             nameBoxText.Text = p.Name;
             birthBoxText.Text = p.Birthday.ToShortDateString();
             moradaBoxText.Text = p.Address;
-
+            textBox3.Text = p.Nif.ToString();
             TimeSpan x = DateTime.Now - p.Birthday;
             idadeBoxText.Text = (x.Days/365).ToString();
            
@@ -36,7 +36,7 @@ namespace SarcIntelService.PersonView
             {
                 SampleGenericDelegate<int, Regist[]> del = new SampleGenericDelegate<int, Regist[]>(serverClient.GetRegists);
 
-                IAsyncResult result = del.BeginInvoke(person.Id, null, null);
+                IAsyncResult result = del.BeginInvoke(person.Nif, null, null);
 
                 registos = del.EndInvoke(result);
 
