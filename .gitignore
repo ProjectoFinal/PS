@@ -1,7 +1,8 @@
 *.dll
 *.cache
 *.mdf
-ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel_log.ldf
+*.ldf
 *.exe
 *.ldf
-ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel.mdf
+*.pdb
+*.txt
