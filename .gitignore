@@ -6,3 +6,7 @@
 *.ldf
 *.pdb
 *.txt
+*.dll
+ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel.mdf
+*.ldf
+ScarIntelFinal/ScarIntel/SarcIntelService/App_Data/BacIntel.mdf
