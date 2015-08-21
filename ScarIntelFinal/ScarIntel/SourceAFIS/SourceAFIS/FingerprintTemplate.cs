@@ -6,6 +6,8 @@ using System.Net.Mime;
 using System.Text;
 using System.Linq;
 using System.Windows.Forms;
+using AForge.Imaging;
+using AForge.Imaging.Filters;
 using SourceAFIS.Utils;
 using System.Xml.Linq;
 using Point = SourceAFIS.Utils.Point;
@@ -19,22 +21,24 @@ namespace SourceAFIS
         internal List<FingerprintMinutia> Minutiae = new List<FingerprintMinutia>();
         internal NeighborEdge[][] EdgeTable;
         
+
         public FingerprintTemplate(byte[,] image, int dpi = 500)
         {
-            const int blockSize = 16;
-
-            
+            const int blockSize = 15;
 
             if (dpi != 500)
                 image = ScaleImage(image, dpi);
 
+            
             image = InvertInput(image);
             var blocks = new BlockMap(new Point(image.GetLength(1), image.GetLength(0)), blockSize);
 
-            var histogram = ComputeHistogram(blocks, image);
-            var smoothHistogram = ComputeSmoothedHistogram(blocks, histogram);
-            var mask = ComputeMask(blocks, histogram);
-            double[,] equalized = Equalize(blocks, image, smoothHistogram, mask);
+
+            var histogram = ComputeHistogram( blocks, image );
+            var smoothHistogram = ComputeSmoothedHistogram( blocks , histogram);
+            var mask = ComputeMask( blocks, histogram );
+
+            double[,] equalized = Equalize( blocks, image , smoothHistogram , mask );
 
             byte[,] orientation = ComputeOrientationMap(equalized, mask, blocks);
 
@@ -68,10 +72,10 @@ namespace SourceAFIS
 
             BuildEdgeTable();
 
-            
-
         }
 
+
+        // Create Xml
         public FingerprintTemplate(XElement xml)
         {
             Minutiae = (from minutia in xml.Elements("Minutia")

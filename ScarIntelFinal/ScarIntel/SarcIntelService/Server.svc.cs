@@ -142,17 +142,17 @@ namespace SarcIntelService
 
 
         //
-        // Get an array of all Person that match the SearchParams parameters in the database
+        // Get an array of all Person that match the PersonSearchParams parameters in the database
         //
 
         // Argumentos 1º name , 2º birthday , 3º nacionalidade 
-        public SearchResult GetAllPerson(SearchParams searchParams)
+        public PersonSearchResult GetAllPerson(PersonSearchParams personSearchParams)
         {
 
 
             try
             {
-                string[] filters = searchParams.filters;
+                string[] filters = personSearchParams.filters;
 
                 using (var connect = new Connect())
                 {
@@ -160,20 +160,15 @@ namespace SarcIntelService
 
                     var personDoa = new PersonDataMapper(sqlconn);
 
-                    SearchResult sr = new SearchResult();
+                    PersonSearchResult sr = new PersonSearchResult();
 
-                    if (filters.Length < 3)
-                    {
-                        sr.result = personDoa.GetAll().ToArray();
-                        return sr;
-                    }
                     sr.result = personDoa.GetAll().Where(p => p.Birthplace == filters[2]).ToArray();
                     return sr;
                 }
             }
             catch (Exception exception)
             {
-                throw new FaultException<ServerError>(new ServerError());
+                throw new FaultException<ServerError>(new ServerError(), "Server Error ");
             }
         }
 

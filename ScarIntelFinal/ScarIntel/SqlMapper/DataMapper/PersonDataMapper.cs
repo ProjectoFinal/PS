@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Linq;
 using Domain.DataContract;
 
 namespace SqlMapper.DataMapper
@@ -34,9 +35,21 @@ namespace SqlMapper.DataMapper
             trx = transaction;
         }
 
-        public Person[] GetByFilters(params String[] filters)
+        public IEnumerable<Person> GetByFilters(PersonSearchParams filters)
         {
-            return null; 
+
+            using (SqlCommand cmd = this.connection.CreateCommand())
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = paging
+                //cmdGet.Parameters["@id"].Value = id;
+                using (SqlDataReader dr = cmdGet.ExecuteReader())
+                {
+                    
+                    while (dr.Read())
+                        yield return Create(dr);
+                }
+            }
         }
 
 
@@ -156,6 +169,15 @@ namespace SqlMapper.DataMapper
             cmd.Parameters.Add(new SqlParameter("@id", SqlDbType.Int));
             return cmd;
         }
+
+        public static SqlCommand sqlGetByFilter(SqlConnection c)
+        {
+            SqlCommand cmd = c.CreateCommand();
+            cmd.CommandText = SQL_GET_BY_ID;
+            cmd.Parameters.Add(new SqlParameter("@id", SqlDbType.Int));
+            return cmd;
+        }
+
         public static SqlCommand sqlGetByRegist(SqlConnection c)
         {
             SqlCommand cmd = c.CreateCommand();

@@ -80,7 +80,7 @@ namespace SarcIntelService
         [FaultContract(typeof (IllegalAccess))]
         [FaultContract(typeof (ServerError))]
         [OperationContract(IsOneWay = false)]
-        SearchResult GetAllPerson(SearchParams searchParams);
+        PersonSearchResult GetAllPerson(PersonSearchParams personSearchParams);
 
         
         [FaultContract(typeof (IllegalAccess))]
