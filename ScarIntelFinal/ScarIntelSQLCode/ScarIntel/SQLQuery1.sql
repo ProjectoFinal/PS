@@ -9,7 +9,7 @@ insert into Person values('jacky',GETDATE(),'Portugal','Alfornelos')
 
 
 
-drop proc filterPerson
+drop proc pagining
 
 CREATE PROCEDURE pagining
  @npage INT,
